@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 void feature1(){
-
+  printf("feature1");
 }
 
 int main(){
