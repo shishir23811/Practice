@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 void feature1(){
-
+printf("Surya is a good boy ");
 }
 
 int main(){
