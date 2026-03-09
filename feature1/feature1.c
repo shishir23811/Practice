@@ -1,5 +1,8 @@
 // Modifies the volume of an audio file
 
+void feature1(){
+  printf("feature1");
+}
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
